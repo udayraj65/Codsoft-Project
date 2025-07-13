@@ -2,7 +2,7 @@ from tkinter import *
 
 # main window setup
 app = Tk()
-app.title("Enhanced Calculator by Sayed Mohammad Sadiq Rizvi")
+app.title("Calculator by Uday Raj")
 app.config(background="#47FF50")
 app.resizable(False, False)
 
